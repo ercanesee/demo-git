@@ -1,1 +1,3 @@
 *.dll
+!demo.dll
+/src/bin/*.txt
